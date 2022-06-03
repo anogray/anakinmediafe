@@ -1,0 +1,22 @@
+.issue-heading{
+    text-align: "center";
+    margin-bottom: 5%;
+}
+
+.issues-list{
+    text-align: center;
+    margin-top: 10%;
+    cursor: pointer;
+}
+
+
+.issue-item {
+    margin-bottom: 2.5%;
+    hover:cursor
+}
+
+.pagination-section{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
